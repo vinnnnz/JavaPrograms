@@ -7,7 +7,7 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 /**
- * @author DELL PC
+ * @author Vineet Kumar
  *
  */
 public class RemoveNonAsciiChar {
