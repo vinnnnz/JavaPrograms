@@ -21,6 +21,7 @@ public class RemoveNonAsciiChar {
 	}
 	
 	public static void main(String[] args) {
+		//you can write non ascii character by pressing alt + numbers(1,2,3,4,5,6) and save file in UTF-8 format
 		System.out.println(removeNonAscii("µhello th≥is is σa text"));
 	}
 }
